@@ -6,12 +6,12 @@
 
 
 ```bash
-    poetry install
-    poetry shell
-    jupyter notebook
+poetry install
+poetry shell
+jupyter notebook
 ```
 
 ### To add package
 ```bash
-    poetry add <pkg>
+poetry add <pkg>
 ```
