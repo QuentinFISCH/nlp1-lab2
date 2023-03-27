@@ -5,6 +5,6 @@ We implemented are own Naive Bayes Classifier using lecture notes. We also used 
 
 ## Submission
 
-State: submitted on 2023-03-24, ready for grading
+State: submitted on 2023-03-27, ready for grading
 
 LAB02 code is available in the `lab02.ipynb` notebook. It contains the answers to the questions and the code for the experiments, with comments and detailled procedure.
