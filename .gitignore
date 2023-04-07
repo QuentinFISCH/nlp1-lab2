@@ -2,3 +2,4 @@ env/
 .ipynb_checkpoints/
 .venv/
 *DS_Store
+lab04/.vector_cache
