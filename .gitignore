@@ -3,3 +3,4 @@ env/
 .venv/
 *DS_Store
 lab04/.vector_cache
+lab04/data
