@@ -18,7 +18,7 @@ Labs are available in their respective folders 'lab0X'. Each lab contains a `lab
 - Lab 04: Submitted on 2023-04-19, graded (21/19)
 
 #### NLP2
-- Lab 05: Submitted on 2023-05-17, ready for grading
+- Lab 05: Submitted on 2023-05-16, ready for grading
 
 ## Setup system:
 
