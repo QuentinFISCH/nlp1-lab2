@@ -4,3 +4,4 @@ env/
 *DS_Store
 lab04/.vector_cache
 lab04/data
+lab06/model.pt
