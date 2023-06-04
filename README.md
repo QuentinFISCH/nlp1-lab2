@@ -19,7 +19,7 @@ Labs are available in their respective folders 'lab0X'. Each lab contains a `lab
 
 #### NLP2
 - Lab 05: Submitted on 2023-05-16, ready for grading
-- Lab 06: Submitted on 2023-06-01, ready for grading
+- Lab 06: Submitted on 2023-06-04, ready for grading
 
 ## Setup system:
 
