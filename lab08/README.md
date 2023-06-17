@@ -1,6 +1,6 @@
 ## Project description: lab08
 
-This project is the last lab of the NLP2 course at EPITA. The goal is to work on data annotation.
+This project is the last lab of the NLP2 course at EPITA. The goal is to work on data annotation and model evaluation.
 
 ## Submission
 
