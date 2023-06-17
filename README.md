@@ -21,6 +21,7 @@ Labs are available in their respective folders 'lab0X'. Each lab contains a `lab
 - Lab 05: Submitted on 2023-05-16, graded (20.5/16)
 - Lab 06: Submitted on 2023-06-04, ready for grading
 - Lab 07: Submitted on 2023-06-07, ready for grading
+- Lab 08: Submitted on 2023-06-21, ready for grading
 
 ## Setup system:
 
